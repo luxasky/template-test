@@ -1,0 +1,10 @@
+html {
+    box-sizing: border-box; 
+    /* prevents padding from aadding extra width or extra height to the page */
+}
+
+body {
+    margin: 0;
+    min-height: 100vh; /* vh = view-port-height, i.e. the ful height of the entire window */
+    /* background-color: dodgerblue; */
+}
